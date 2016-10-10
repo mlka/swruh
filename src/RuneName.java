@@ -1,0 +1,23 @@
+public enum RuneName {
+    BLADE,
+    DESPAIR,
+    ENDURE,
+    ENERGY,
+    FATAL,
+    FOCUS,
+    GUARD,
+    NEMESIS,
+    RAGE,
+    SHIELD,
+    REVENGE,
+    SWIFT,
+    VAMPIRE,
+    VIOLENT,
+    WILL,
+    DESTROY,
+    FIGHT,
+    DETERMINATION,
+    ENHANCE,
+    ACCURACY,
+    ;
+}
